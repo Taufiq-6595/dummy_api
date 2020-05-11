@@ -1,5 +1,5 @@
 {
-    "users": [{
+    	{
             "username": "JakeWharton",
             "name": "Jake Wharton",
             "avatar": "https://github.com/Taufiq-6595/dummy_api/blob/master/avatar/user1.png",
@@ -99,5 +99,5 @@
             "follower": 465,
             "following": 10
         }
-    ]
+    
 }
